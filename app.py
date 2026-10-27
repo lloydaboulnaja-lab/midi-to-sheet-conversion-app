@@ -746,3 +746,4 @@ class MuscribeApp(ctk.CTk):
 if __name__ == "__main__":
     app = MuscribeApp()
     app.mainloop()
+#for security
